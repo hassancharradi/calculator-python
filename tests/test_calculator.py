@@ -1,7 +1,7 @@
 
 import unittest
 
-from calculator import calculate
+from calculatrice import calculate
 
 
 class TestCalculator(unittest.TestCase):
